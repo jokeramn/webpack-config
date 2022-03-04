@@ -12,6 +12,10 @@ main {
   align-items: center;
 }
 
+ul {
+  list-style-image: url("../images/hqdefault.jpg");
+}
+
 button {
   font-size: 1.5rem;
 }
